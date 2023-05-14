@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.106" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Title of your feature" name="Successful Login with Valid Credentials" time="0.017">
+<system-out><![CDATA[
+Given User enters Credentials to LogIn......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
